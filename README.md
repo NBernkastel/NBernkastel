@@ -29,11 +29,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NBernkastel/NBernkastel/blob/output/snake.svg" alt="Snake animation" />
-
-###
