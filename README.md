@@ -1,4 +1,4 @@
-<h1 align="center">Yo Im BackEnd developer, glad to see you. Per aspera ad astra🌠</h1>
+<h1 align="center">Yo Im FullStack developer, glad to see you. Per aspera ad astra🌠</h1>
 
 ## My Stats and Skills
 
