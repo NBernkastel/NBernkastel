@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBernkastel&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,fastapi,git,postgres,py,react,redis,sqlite,arduino,css,docker,html,js" alt="skills"  />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,git,postgres,sqlite,redis,react,css,docker,html,js,arduino,c" alt="skills"  />
 </div>
 
 ## Contacts
