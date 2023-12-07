@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:400">Novus ordo seclorum</h1>
+<h1 align="center" style="font-weight:400">Novus ordo seclorum ₿</h1>
 
 ## My Stats and Skills
 
