@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight:400">Novus ordo seclorum ₿</h1>
 
-## My Stats and Skills
+## My Stats and technologies that I like
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NBernkastel&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" height="150" alt="stats graph"  />
